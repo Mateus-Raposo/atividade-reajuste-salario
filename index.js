@@ -29,7 +29,7 @@ app.get('/', (req, res) => {
             <p style="text-align: center;">Bem-vindo(a) ao sistema!</p>
             <p>Por favor, informe na URL os seguintes dados: <strong>idade, sexo, salario_base, anoContratacao e matricula</strong>.</p>
             <p><strong>Exemplo de uso:</strong></p>
-            <a href="http://localhost:3000/?idade=23&sexo=M&salario_base=3000&anoContratacao=2022&matricula=085343">
+           <a href="/?idade=23&sexo=M&salario_base=3000&anoContratacao=2020&matricula=889353">
                 Clique aqui para testar com um exemplo
             </a>
             </div></body></html>
